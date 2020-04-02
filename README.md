@@ -1,2 +1,2 @@
 # Mytool
-make C++ programming easier
+大二学数据结构时写的，等什么时候想回过头来搞C++了再更
